@@ -1,3 +1,3 @@
 # clone-from-github
 clone-from-github-to-local
-update readme file
+updates made to the readme file from local
