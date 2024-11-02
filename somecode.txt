@@ -1,2 +1,2 @@
 try out this code
-select * from schema1.emp where 1=2;
+select * from db1.schema1.emp where 1=2;
