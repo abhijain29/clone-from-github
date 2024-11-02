@@ -1,0 +1,2 @@
+try out this code
+select * from schema1.emp where 1=2;
